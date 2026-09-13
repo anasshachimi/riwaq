@@ -1,0 +1,6 @@
+{
+  "name": "riwaq",
+  "description": "Interactive quiz and trivia app featuring 1,000 curated questions across 10 categories in Arabic, English, and French with dark and light mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
